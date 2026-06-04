@@ -69,6 +69,4 @@ Operational inefficiency in scaling organizations is not primarily a tooling pro
 
 ---
 
-## Author
 
-B.Tech ECE Student | Aspiring AI Business Analyst / TPM
