@@ -50,7 +50,7 @@ This prototype simulates a lightweight execution OS suitable for scaling from 2 
 
 - `DeepThought_Assignment.pdf` → Full written submission (Parts A, B, C)
 - `Execution_Tracker_Prototype.xlsx` → Working Excel system
-- `hand_drawn_diagram.jpdf` → System thinking diagram 
+- `hand_drawn_diagram.pdf` → System thinking diagram 
 - `Screenshots/dashboard.png` → Visual snapshot of analytics 
 
 ---
